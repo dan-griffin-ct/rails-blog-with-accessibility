@@ -1,25 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README will get updated as the project grows :D
 
-Things you may want to cover:
+Blog features:
 
-* Ruby version
+* Rails 7
 
-* System dependencies
+* Bulma (open course flexbox-based CSS library)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Accessibility - currently only in the main page (WIP!)
 # rails-blog-with-accessibility
