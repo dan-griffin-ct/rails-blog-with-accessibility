@@ -6,7 +6,7 @@ Blog features:
 
 * Rails 7
 
-* Bulma (open course flexbox-based CSS library)
+* Bulma (open source flexbox-based CSS library)
 
 * Accessibility - currently only in the main page (WIP!)
 # rails-blog-with-accessibility
